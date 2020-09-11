@@ -17,9 +17,7 @@
         "source": "https://github.com/canchito-dev/mini-framework-mvc"
     },
     "require": {
-        "php": ">=5.3.0 <7.0",
-        "twig/twig": "1.*",
-        "phpmailer/phpmailer": "5.2.16"
+        "twig/twig": "1.*"
     },
     "autoload": {
     	"classmap": [
